@@ -1,0 +1,2 @@
+# kalvium
+ou can run this script using node filename.js where filename.js is the name of the file containing the above code. After running the script, you can send GET requests to different URLs like /5/plus/3, /3/minus/5, /3/minus/5/plus/8, etc., and the server will respond with the appropriate JSON results. The /history endpoint will show you the history of the last 20 operations performed on the server.
