@@ -10,10 +10,10 @@ If an island is connected to more than one island, through bridges, then it indi
 #include <stdio.h>
 
 // Read only region start
-int mincost(int input1, int input2, int input3, int **input4);
+int mincost(int input1, int input2, int input3, int **input4) {
 // Read only region end
 
-int mincost(int input1, int input2, int input3, int **input4) {
+
     int N = input1;
     int M = input2;
     int K = input3;
